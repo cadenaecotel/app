@@ -1,4 +1,4 @@
-# app
+# Aplicación móvil Cadena Ecotel
 
 **POLÍTICA DE PRIVACIDAD**
 
